@@ -6,9 +6,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://marley.nl
+2.
+3.
 
 
 
@@ -36,9 +36,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 1 (week 3)
 
+Ik vond het best lastig om weer de flexbox techniek op te pakken na vorig jaar. Ik besloot om mezelf weer even in te lezen op de css-tricks site. Dit heeft me heel erg geholpen, waardoor ik ook goed mijn header kon maken. Het css gedeelte "first-of-type" & "nth-of-type(2)"" ging me goed af, omdat dit goed behandeld was in de les.
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+
 
 **Screenshot(s):**
 
@@ -46,11 +47,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+We hebben samen met het groepje afgesproken dat we van te voren een aantal vragen opschreven, zodat we die tijdens de meeting konden vragen.
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Iedereen had goede en nuttige vragen waar je echt wat aan hebt. Er werden vragen gesteld over flexbox, grids en responsive design.
 
 
 

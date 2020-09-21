@@ -39,7 +39,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Ik vond het best lastig om weer de flexbox techniek op te pakken na vorig jaar. Ik besloot om mezelf weer even in te lezen op de css-tricks site. Dit heeft me heel erg geholpen, waardoor ik ook goed mijn header kon maken. Het css gedeelte "first-of-type" & "nth-of-type(2)"" ging me goed af, omdat dit goed behandeld was in de les.
 ### Stand van zaken
 
-![](images/week3.png)
+
+
+**Screenshot(s):**
+
+-screenshot(s) van hoe ver je bent-
 
 ### Agenda voor meeting
 
@@ -64,5 +68,5 @@ https://marley.nl De website van house of marley namaken
 
 
 **Breakdown-schets(en):**
-![](images/breakdown_sketch2.jpg)
-![](images/breakdown_sketch1.jpg)
+breakdown_sketch2.jpg
+breakdown_sketch1.jpg

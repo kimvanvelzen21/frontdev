@@ -30,7 +30,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+De site komt er steeds beter uit te zien en het word steeds leuker om moeilijkere elementjes toe te voegen. Had best veel moeite met een hamburger menu maken maar uiteindelijk is het gelukt met de css en js. Nu ga ik bezig met de andere pagina
 
 
 

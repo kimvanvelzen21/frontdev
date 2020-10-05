@@ -17,7 +17,3 @@ function inklappen() {
     menu.classList.remove("toonMenu");
     body.classList.remove("absolute");
 }
-
-function() {
-  $(this).toggleClass("active");
-}

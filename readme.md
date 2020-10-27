@@ -67,7 +67,7 @@ Iedereen had goede en nuttige vragen waar je echt wat aan hebt. Er werden vragen
 https://marley.nl De website van house of marley namaken
 
 **Screenshot(s):**
-
+<img width="189" alt="Schermafbeelding 2020-10-27 om 16 38 54" src="https://user-images.githubusercontent.com/70523185/97325173-fd4dba00-1872-11eb-924a-42f8ebd7d2f2.png">
 
 **Breakdown-schets(en):**
 Breakdownschets van de mobile website van house of marley

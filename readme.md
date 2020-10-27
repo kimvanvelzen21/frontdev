@@ -71,5 +71,5 @@ https://marley.nl De website van house of marley namaken
 
 **Breakdown-schets(en):**
 Breakdownschets van de mobile website van house of marley
-(images/procesverslag/breakdown_sketch1.jpg)
-(images/procesverslag/breakdown_sketch2.jpg)
+![breakdown_sketch1](https://user-images.githubusercontent.com/70523185/93670041-6d109e00-fa98-11ea-8513-6ad56e0c7dec.jpg)
+

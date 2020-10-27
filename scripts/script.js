@@ -16,6 +16,8 @@ function inklappen() { /*inklappen van het hamburgermenu*/
     body.classList.remove("absolute");
 }
 
+
+/* INSPIRATIE EN CODE VAN: student assisente en codepen*/
 function showText() {
   var main = document.getElementById("main-text"); /*variable main text*/
   var moreText = document.getElementById("more"); /*variable tweede gedeelte van de tekst*/

@@ -7,8 +7,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. https://marley.nl
-2.
-3.
+2. https://www.flaticon.com
+3. https://player.vimeo.com/video/364310519?autoplay=1&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;background=1&amp;muted=1
+4. https://www.w3schools.com/html/html_intro.asp
+5.
 
 
 
@@ -59,7 +61,7 @@ Iedereen had goede en nuttige vragen waar je echt wat aan hebt. Er werden vragen
 
 **Je startniveau:** rode piste
 
-**Je focus:** surface plane
+**Je focus:** Mijn focus ligt op surface plane, als ik nog tijd over heb wil ik het responsive gedeelte er nog bij pakken.
 
 **Je opdracht:**
 https://marley.nl De website van house of marley namaken
@@ -68,5 +70,6 @@ https://marley.nl De website van house of marley namaken
 
 
 **Breakdown-schets(en):**
-breakdown_sketch2.jpg
-breakdown_sketch1.jpg
+Breakdownschets van de mobile website van house of marley
+(images/procesverslag/breakdown_sketch1.jpg)
+(images/procesverslag/breakdown_sketch2.jpg)

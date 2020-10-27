@@ -5,9 +5,8 @@
 	<meta charset="UTF-8">
 	<meta name="author" content="jouw naam">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
 	<title>House of Marley</title>
-
+	<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap" rel="stylesheet">
 	<link href="styles/style.css" rel="stylesheet">
 </head>
 
@@ -27,9 +26,9 @@
 			<img alt="language" src="images/flag.svg">
 		</div>
 
-		<div class="menu" id="topMenu">
+		<div class="menu">
 			<div>
-				<img class="hambuger_icon" alt="close" src="images/close.svg" onclick="toonMenu()">
+				<img class="hambuger_icon" alt="close" src="images/close.svg" onclick="toonHamburgermenuMenu()">
 				<ul>
 
 					<li>
@@ -67,13 +66,13 @@
 
 		<section>
 			<div class="video_header">
-	<iframe src="https://player.vimeo.com/video/364310519?autoplay=1&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;background=1&amp;muted=1"></iframe>
-      </div>
+				<iframe src="https://player.vimeo.com/video/364310519?autoplay=1&amp;loop=1&amp;title=0&amp;byline=0&amp;portrait=0&amp;background=1&amp;muted=1"></iframe>
+			</div>
 			<div class="content_header">
-							SUPERIOR SOUND.
-							<br>
-							SUSTAINABLY CRAFTED.
-						</div>
+				SUPERIOR SOUND.
+				<br>
+				SUSTAINABLY CRAFTED.
+			</div>
 		</section>
 
 		<section class="trees">
@@ -86,15 +85,18 @@
 		<section>
 			<div>
 				<img alt="product image" src="images/product_img.jpg">
-				<div class="content_text">
+
+				<div class="content">
 					<h3><b>REDEMPTION ANC</b></h3>
-					<span>Truly Wireless Earphones</span>
-					<br><br>
+					<span>Stir It Up platenspeler</span>
 					<p>Gemaakt met duurzame materialen
 						FSC goedgekeurd bamboehout
 						Zweetbestendig en</p>
-					<button>SHOP NOW</button>
 				</div>
+				<div class="button_animation1">
+							<a href="" class="btn btn1">SHOP NOW</a>
+				</div>
+
 			</div>
 		</section>
 
@@ -109,16 +111,19 @@
 		<section>
 			<div>
 				<img alt="product image" src="images/product_img2.jpg">
-				<div class="content_text">
+
+				<div class="content">
 					<h4><b>STIR IT UP-<br>WIRELESS<br>TURNTABLE</b></h4>
 					<span>Stir It Up platenspeler</span>
-					<p class="active">
-						Deze klassieke en gestileerde ontworpen draaitafel is vervaardigd van natuurlijke <br> bamboe en past in elk interieur. De draaitafel is uitgerust met een Audio-Technica naald element en ingebouwde voorversterker, om direct aan te sluiten op
-						elke externe speaker met een 3,5mm aux ingang via de kabel.
-					</p>
+
+					<button onclick="showText()" id="showBtn">+</button>
+					<p> Deze klassieke en gestileerde ontworpen draaitafel is vervaardigd van natuurlijke <span id="main-text"></span><span id="more">
+							bamboe en past in elk interieur. De draaitafel is uitgerust met een Audio-Technica naald element en ingebouwde voorversterker, om direct aan te sluiten op elke externe speaker met een 3,5mm aux ingang via de kabel.
+						</span></p>
 				</div>
 
 			</div>
+
 		</section>
 
 		<section>
@@ -127,8 +132,11 @@
 					<h4>SHOP OUR<br>HEADPHONES</h4>
 				</div>
 				<img alt="product image" src="images/afbeelding5.jpg">
-				<button>SHOP NOW</button>
-			</div>
+				<div class="button_animation2">
+							<a href="" class="btn btn2">SHOP NOW</a>
+				</div>
+				</div>
+
 		</section>
 
 		<section>
@@ -137,67 +145,48 @@
 					<h4>SHOP OUR<br>TURNTABLES</h4>
 				</div>
 				<img alt="product image" src="images/afbeelding3.jpg">
-				<button>SHOP NOW</button>
+				<div class="button_animation3">
+							<a href="" class="btn btn3">SHOP NOW</a>
+				</div>
 			</div>
 		</section>
 
+	</main>
 
-
-		<!-- =========== Footer ============ -->
-		<footer>
+	<!-- =========== Footer ============ -->
+	<footer>
+		<div class="footer-content">
 			<div>
+				<img alt="footer image" src="images/logo_footer.png">
+			</div>
+
+			<div class="links">
+				<a href="/contact.hmtl">Contact support</a>
+				<a href="/mission.hmtl">Over</a>
+				<a href="/mission.hmtl">Waar kopen</a>
+			</div>
+
+
 			<div>
-
-	<img alt="footer image" src="images/logo_footer.png">
-</div>
-
-<div class="footer_top_right">
-		<a href="/contact.hmtl">Contact support</a>
-		<a href="/mission.hmtl">Over</a>
-		<a href="/mission.hmtl">Waar kopen</a>
-</div>
-</div>
-
-<div>
-    <input type="text" placeholder="Email adress" name="mail" required>
-  </div>
-<div class="container">
-    <input type="submit" value="Inschrijven">
-</div>
-
-
-
+				<input type="text" placeholder="Email adress" name="mail" required>
+			</div>
+			<div class="container">
+				<input type="submit" value="Inschrijven">
+			</div>
 
 			<div>
 				<p>Tel: +31235739292
 					Mail: verkoop@autovision.nl
 					<br>
 					<br>
-					House Of Marley Nederland: Autovision Holding BV
-					Burgemeester Engelbertsstraat 92
-					2042 KP Zandvoort - Netherlands
-					kvk: 34039593
-					Bij Technische vragen/problemen kijk op www.autovision.nl
-					HELPDESK HOUSE OF MARLEY
-					<br>
-					<br>
-
-					Door continue productverbeteringen, kunnen de
-					afbeeldingen op de website iets afwijken van het
-					eigenlijke product dat u ontvangt.
-					Zetfouten, wijzigingen onder voorbehoud.
-					<br>
-					<br>
 					Privacyverklaring | Sitemap | Zoektermen | Geavanceerd zoeken | Bestellingen | Retouren & garantie | Mail ons
 					© 2020 House of Marley, LLC. All Rights Reserved.
 				</p>
 			</div>
+		</div>
 
-
-		</footer>
-		<!-- =========== end Footer ============ -->
-
-	</main>
+	</footer>
+	<!-- =========== end Footer ============ -->
 
 	<script src="scripts/script.js"></script>
 </body>

@@ -195,7 +195,7 @@ section:first-of-type .content_header {
   position: absolute;
   left: 30px;
   top: 200px;
-  color: #000;
+  color: #fff;
 }
 
 /**! 06. section 2 **/
@@ -486,7 +486,7 @@ section:nth-of-type(6) div .content_text {
   margin-top: 10px;
 }
 
-section:nth-of-type(6) h4 {
+section:nth-of-type(6) h5 {
   color: #000;
   font-family: Oswald, Helvetica, Sans-Serif;
   font-weight: 700;
@@ -553,7 +553,7 @@ section:nth-of-type(7) div .content_text {
   margin-top: 10px;
 }
 
-section:nth-of-type(7) h4 {
+section:nth-of-type(7) h5 {
   color: #000;
   font-family: Oswald, Helvetica, Sans-Serif;
   font-weight: 700;
